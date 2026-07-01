@@ -35,3 +35,8 @@ Average Days Between Orders
 Top Products
 Top Departments
 Top Aisles
+-----
+## power bi file
+-------------------
+The power bi file (.pbix) file is available here
+[https://drive.google.com/your-link](https://drive.google.com/file/d/1qYJPOgV8YuSFt55qp4e5BQtxsRE5czJa/view?usp=sharing)
